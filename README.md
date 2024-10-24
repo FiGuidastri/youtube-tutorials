@@ -1,4 +1,5 @@
 # streamlit-data-professor
+
+| **Aula** | **Data Professor** |
 |---|---|
-| **Streamlit** | **Data Professor** |
-| videodashboard | [https://www.youtube.com/watch?v=o6wQ8zAkLxc](video) |
+| dashboard | [video](https://www.youtube.com/watch?v=o6wQ8zAkLxc) |
